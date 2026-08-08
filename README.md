@@ -197,7 +197,11 @@ This project served as my practical introduction to backend data integration usi
 </p>
 
 <br>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuraj-sah/anuraj-sah/output/snake.svg" />
+  
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/anuraj-sah/anuraj-sah/output/snake-turquoise.svg" />
+</picture>
 </div>
 <p align="center">
   <a href="https://github.com">
