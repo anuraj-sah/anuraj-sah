@@ -1,7 +1,7 @@
 <div align="center">
 <p align="center">
-  <a href="https://github.com/YourUsername/YourRepo/blob/main/your-video.mp4">
-    <img src="Content\Banner_Anuraj.gif" alt="header" width="100%">
+  <a href="https://github.com">
+    <img width="1600" height="480" alt="Image" src="https://github.com/user-attachments/assets/7ea311d8-f684-4681-8cfb-8d0eba2423fb" />
   </a>
 </p>
 <p align="center"> 
@@ -200,9 +200,9 @@ This project served as my practical introduction to backend data integration usi
 
 </div>
 <p align="center">
-  <a href="https://github.com/YourUsername/YourRepo/blob/main/your-video.mp4">
-    <img src="Content\Banner_Anuraj.gif" alt="header" width="100%">
+  <a href="https://github.com">
+    <img width="1600" height="480" alt="Image" src="https://github.com/user-attachments/assets/bf0e182a-03f4-4100-8f67-a0922e66197f" />
   </a>
 </p>
 
-</div>" 
+</div>
