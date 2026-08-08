@@ -103,8 +103,8 @@
 <h2><img src="https://cdn-icons-png.flaticon.com/128/7860/7860404.png" alt="Alt text" width="20"> <strong>Github Status & Streak</strong> </h2>
 <i>My Experience & Skills is build by Training & Hardwork</i>
 <p align="center">
-  <img src="https://readmestats.999857.xyz/api?username=anuraj-sah&show_icons=true&locale=en&theme=white" alt="Anuraj Sah's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=anuraj-sah&theme=white" alt="Anuraj Sah's GitHub Streak" />
+  <img src="https://readmestats.999857.xyz/api?username=anuraj-sah&show_icons=true&locale=en&theme=white" alt="Anuraj Sah's GitHub Stats" width="300" />
+  <img src="https://streak-stats.demolab.com/?user=anuraj-sah&theme=white" alt="Anuraj Sah's GitHub Streak" width="300"  />
 </p>
 
 <h2> <img src="https://cdn-icons-png.flaticon.com/128/5956/5956597.png" alt="Projects icon" width="20"> My Projects </h2>
