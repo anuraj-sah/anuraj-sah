@@ -1,7 +1,7 @@
 <div align="center">
 <p align="center">
   <a href="https://github.com">
-    <img width="1600" height="480" alt="Image" src="https://github.com/user-attachments/assets/7ea311d8-f684-4681-8cfb-8d0eba2423fb" />
+   <img width="1600" height="480" alt="Image" src="https://github.com/user-attachments/assets/27220743-183e-4ecc-925a-e4d321f8c72c" />
   </a>
 </p>
 <p align="center"> 
@@ -201,7 +201,7 @@ This project served as my practical introduction to backend data integration usi
 </div>
 <p align="center">
   <a href="https://github.com">
-    <img width="1600" height="480" alt="Image" src="https://github.com/user-attachments/assets/bf0e182a-03f4-4100-8f67-a0922e66197f" />
+    <img width="1600" height="480" alt="Image" src="https://github.com/user-attachments/assets/f7d16630-daee-494a-b0bd-6b431c1b7693" />
   </a>
 </p>
 
