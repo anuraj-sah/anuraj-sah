@@ -160,27 +160,26 @@ This project served as my practical introduction to backend data integration usi
 <p align="center">
   <a href="https://cdn.qwiklabs.com/QCFXLKG7%2FPZPSCEdaIkdbwJaJKWQFUYITkYLPApMkcg%3D">
     <img src="https://cdn.qwiklabs.com/QCFXLKG7%2FPZPSCEdaIkdbwJaJKWQFUYITkYLPApMkcg%3D" alt="Gen AI: Unlock Foundational Concepts" width="100">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="https://cdn.qwiklabs.com/ZLTKgDPBgi5GOfU5%2Fr3IPnPCd4W%2Bv5F8AeuvASVCK0Q%3D">
-    <img src="https://cdn.qwiklabs.com/ZLTKgDPBgi5GOfU5%2Fr3IPnPCd4W%2Bv5F8AeuvASVCK0Q%3D" alt="Gen AI: Beyond the Chatbot
-" width="100">
+    <img src="https://cdn.qwiklabs.com/ZLTKgDPBgi5GOfU5%2Fr3IPnPCd4W%2Bv5F8AeuvASVCK0Q%3D" alt="Gen AI: Beyond the Chatbot" width="100">
+    <img src="https://cdn.qwiklabs.com/Y2DM%2F8xG0pzho6SCHkmXnG%2BZxYs0Cmrs10rcHCimfXg%3D" alt="Gen AI: Navigate the Landscape" width="100">
   </a>
 </p>
 
 <div style="text-align: left; max-width: 800px; width: 100%; font-family: 'Times New Roman', Times, serif; font-size: 20px;">
   <ul>
-    <li>Still working on it!</li>
+    <li>(Pixel To Prototype : Hands-On Figma Workshop) Organized by DPGU ACM STUDENT CHAPTER</li>
   </ul>
 </div>
 
 <h2> <img src="https://cdn-icons-png.flaticon.com/128/25/25231.png" alt="Connect icon" width="20"> Connect with me </h2>
 <p align="center" style="font-family: 'Times New Roman', Times, serif;">
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://linkedin.com/in/anuraj-sah" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/your-twitter-username" target="_blank">
+  <a href="https://twitter.com/anurajsah2008" target="_blank">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="X" width="30"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
