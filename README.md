@@ -134,33 +134,40 @@ This project served as my practical introduction to backend data integration usi
 <br>
 
 <h2> <img src="https://cdn-icons-png.flaticon.com/128/9354/9354357.png" alt="Achievement icon" width="30"> Hackathons & Achievements </h2>
-<table style="width: 100%; border-collapse: collapse; font-family: 'Times New Roman', Times, serif;" >
- <tr style="background-color: #f2f2f2;">
+<table style="width: 100%; border-collapse: collapse; font-family: 'Times New Roman', Times, serif;">
+  <tr style="background-color: #f2f2f2;">
     <th style="padding: 12px; border: 1px solid #ddd; text-align: left;">Hackathon Name</th>
     <th style="padding: 12px; border: 1px solid #ddd; text-align: left;">Academic Year</th>
     <th style="padding: 12px; border: 1px solid #ddd; text-align: left;">Role</th>
-    <th style="padding: 12px; border: 1px solid #ddd; text-align: left;">Project Model</th>
+    <th style="padding: 12px; border: 1px solid #ddd; text-align: left;">Description</th>
     <th style="padding: 12px; border: 1px solid #ddd; text-align: left;">Organizer Name</th>
+    <th style="padding: 12px; border: 1px solid #ddd; text-align: left;">Status</th>
+  </tr>
+  
+  <tr>
+    <td style="padding: 12px; border: 1px solid #ddd; text-align: left; vertical-align: top;"><strong>Smart Indian Hackathon 2026 </strong></td>
+    <td style="padding: 12px; border: 1px solid #ddd; text-align: left; vertical-align: top;">2026</td>
+    <td style="padding: 12px; border: 1px solid #ddd; text-align: left; vertical-align: top;">Team Leader & Tech Member</td>
+    <td style="padding: 12px; border: 1px solid #ddd; text-align: left; vertical-align: top;">Our Model was to building a Smart LMS with smart attendance and learning</td>
+    <td style="padding: 12px; border: 1px solid #ddd; text-align: left; vertical-align: top;">DPGU Internal SIH 2026 </td>
+    <td style="padding: 12px; border: 1px solid #ddd; text-align: left; vertical-align: top;">Internally Selected</td>
   </tr>
   <tr>
-    <td colspan="5" style="padding: 12px; border: 1px solid #ddd; text-align: center;">Still Working on it!</td>
+    <td style="padding: 12px; border: 1px solid #ddd; text-align: left; vertical-align: top;"><strong> ACM OBSIDIAN 2026 </strong></td>
+    <td style="padding: 12px; border: 1px solid #ddd; text-align: left; vertical-align: top;">2026</td>
+    <td style="padding: 12px; border: 1px solid #ddd; text-align: left; vertical-align: top;">Participate</td>
+    <td style="padding: 12px; border: 1px solid #ddd; text-align: left; vertical-align: top;">To sovle the C Progamming related Questions</td>
+    <td style="padding: 12px; border: 1px solid #ddd; text-align: left; vertical-align: top;">DPGU ACM Student Member</td>
+    <td style="padding: 12px; border: 1px solid #ddd; text-align: left; vertical-align: top;">Success</td>
   </tr>
-  <!-- <tr>
-    <td style="padding: 12px; border: 1px solid #ddd; text-align: left; vertical-align: top;"><strong>[Your Hackathon Name]</strong></td>
-    <td style="padding: 12px; border: 1px solid #ddd; text-align: left; vertical-align: top;">[e.g., 2023-2024]</td>
-    <td style="padding: 12px; border: 1px solid #ddd; text-align: left; vertical-align: top;">[e.g., Team Lead, Developer]</td>
-    <td style="padding: 12px; border: 1px solid #ddd; text-align: left; vertical-align: top;">[Brief description of project, e.g., Web App, Mobile App, ML Model]</td>
-    <td style="padding: 12px; border: 1px solid #ddd; text-align: left; vertical-align: top;">[e.g., Google, Microsoft, DPGU]</td>
-  </tr>-->
 </table>
-
 <br>
 
 <h2> <img src="https://cdn-icons-png.flaticon.com/128/70/70535.png" alt="Badges icon" width="30"> Badges & Certifications </h2>
 <p align="center">
   <a href="https://cdn.qwiklabs.com/QCFXLKG7%2FPZPSCEdaIkdbwJaJKWQFUYITkYLPApMkcg%3D">
     <img src="https://cdn.qwiklabs.com/QCFXLKG7%2FPZPSCEdaIkdbwJaJKWQFUYITkYLPApMkcg%3D" alt="Gen AI: Unlock Foundational Concepts" width="100">
-  
+  </a>
   <a href="https://cdn.qwiklabs.com/ZLTKgDPBgi5GOfU5%2Fr3IPnPCd4W%2Bv5F8AeuvASVCK0Q%3D">
     <img src="https://cdn.qwiklabs.com/ZLTKgDPBgi5GOfU5%2Fr3IPnPCd4W%2Bv5F8AeuvASVCK0Q%3D" alt="Gen AI: Beyond the Chatbot" width="100">
     <img src="https://cdn.qwiklabs.com/Y2DM%2F8xG0pzho6SCHkmXnG%2BZxYs0Cmrs10rcHCimfXg%3D" alt="Gen AI: Navigate the Landscape" width="100">
@@ -168,8 +175,11 @@ This project served as my practical introduction to backend data integration usi
 </p>
 
 <div style="text-align: left; max-width: 800px; width: 100%; font-family: 'Times New Roman', Times, serif; font-size: 20px;">
-  <ul>
-    <li>(Pixel To Prototype : Hands-On Figma Workshop) Organized by DPGU ACM STUDENT CHAPTER</li>
+  <ul style="text-align: right; list-style-position: inside;">
+    <li><strong>Pixel To Prototype : Hands-On Figma Workshop</strong> Organized by DPGU ACM STUDENT CHAPTER</li>
+  </ul>
+  <ul style="text-align: right; list-style-position: inside;">
+    <li><strong>TCS Group Certified Communication Skill</strong> Organized by TATA Group</li>
   </ul>
 </div>
 
